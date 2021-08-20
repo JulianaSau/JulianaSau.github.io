@@ -1,5 +1,5 @@
 # JulianaSau.github.io
- HNG INternship Stage 2 task 3
+ HNG Internship Stage 2 task 3
 <html>
  <body>
   <p>Print name task demo link:</p>
