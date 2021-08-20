@@ -3,7 +3,7 @@
 <html>
  <body>
   <p>Print name task demo link:</p>
-  <p><a href="https://julianasau.github.io/Printname/printname.html"></a></p>
+  <p><a href="https://julianasau.github.io/Printname/printname.html">Print Name Demo</a></p>
  </body>
 </html> 
  
